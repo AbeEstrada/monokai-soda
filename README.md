@@ -2,6 +2,6 @@
 
 A modified version of monokai theme for Atom
 
-Originally convertes from the [TextMate](https://github.com/buymeasoda/soda-theme/) theme using [TextMate bundle converter](http://atom.io/docs/latest/converting-a-text-mate-theme).
+Originally converted from the [TextMate](https://github.com/buymeasoda/soda-theme/) theme using [TextMate bundle converter](http://atom.io/docs/latest/converting-a-text-mate-theme).
 
 ![](https://raw.github.com/AbeEstrada/monokai-soda/master/screenshot.png)
